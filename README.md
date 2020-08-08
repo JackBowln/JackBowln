@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 <a href="https://status.nmoo.dev/now-playing?open">
     <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+
+<a href="https://github.com/jackbowln">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/jackbowln">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=merko" />
+</a>
