@@ -33,6 +33,19 @@
  I'm used to stream on  [Twitch]([twitch.tv/jackbowln) 
  and  I'm self taught language learner as well.
 
+<br>
+
+**Language and tools**
+
+&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/nextjs.png"></code>&nbsp;
+&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/vscode.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/python.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  &nbsp;
+
+<br>
 
 <p>
 <a align="center href="https://github.com/jackbowln">
@@ -41,7 +54,8 @@
 <a href="https://github.com/jackbowln">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=dark&hide=css, html" />
 </a>
-</>
+
+
 
 <!--START_SECTION:waka-->
 
