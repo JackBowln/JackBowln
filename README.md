@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with backend tools
 - 💬 Ask me about anything, let's just chat
-- 📫 I can be reached my **vinivdias@gmail.com**.
+- 📫 I can be reached at **vinivdias@gmail.com**.
 - ⚡ Fun fact: 
  I'm used to stream on  [Twitch]([twitch.tv/jackbowln) 
  and  I'm self taught language learner as well.
