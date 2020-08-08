@@ -1,29 +1,41 @@
-### Hi there 👋
+## Hi there I'm [Vinicius!](Github.com/jackbowln) 👋
 
-<!--
-**JackBowln/JackBowln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Contact me in my social medias:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-**Now Playing** on Spotify
-
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://twitter.com/ViniciusViola1">
+&nbsp;&nbsp;<img src="twitter.png" height="19px">
+&nbsp;&nbsp;&nbsp;
+</a>            
+<a href="https://www.twitch.tv/jack_bowln">
+<img src="twitch.png" height="21px"></img>
+&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://www.instagram.com/viniciusvdias/">
+<img  src="instagram.png" height="20px"></img>
+&nbsp;&nbsp;&nbsp;
+</a>
+<a href="https://twitter.com/ViniciusViola1">
+<img src="linke.png" height="23px"></img>
 </a>
 
+<br />
+
+### A little brief about me, a passionate ___web developer___ from Brazil 
+##### I'm also self taught language learner
+- 🔭 I’m currently studying to be a web developer
+- 🌱 I’m currently learning React and database
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I’m looking for help with backend tools
+- 💬 Ask me about anything, let's just chat
+- ⚡ Fun fact: I'm used to stream on  [Twitch]([twitch.tv/jackbowln)
+
+
+<p align="center>
 <a href="https://github.com/jackbowln">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackbowln&show_icons=true&theme=dark&line_height=27" />
 </a>
 <a href="https://github.com/jackbowln">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=dark&hide=css, html" />
 </a>
+</p>
