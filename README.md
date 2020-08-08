@@ -29,6 +29,7 @@
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with backend tools
 - 💬 Ask me about anything, let's just chat
+- 📫 I can be reached my [**E-mail**](vinivdias@gmail.com)
 - ⚡ Fun fact: 
  I'm used to stream on  [Twitch]([twitch.tv/jackbowln) 
  and  I'm self taught language learner as well.
@@ -48,7 +49,7 @@
 <br>
 
 <p>
-<a align="center href="https://github.com/jackbowln">
+<a align="center" href="https://github.com/jackbowln">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackbowln&show_icons=true&theme=dark&line_height=27" />
 </a>
 <a href="https://github.com/jackbowln">
