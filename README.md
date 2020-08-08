@@ -22,13 +22,15 @@
 <br />
 
 ### A little brief about me, a passionate ___web developer___ from Brazil 
-##### I'm also self taught language learner
+
 - 🔭 I’m currently studying to be a web developer
 - 🌱 I’m currently learning React and database
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with backend tools
 - 💬 Ask me about anything, let's just chat
-- ⚡ Fun fact: I'm used to stream on  [Twitch]([twitch.tv/jackbowln)
+- ⚡ Fun fact: 
+ I'm used to stream on  [Twitch]([twitch.tv/jackbowln) 
+ and  I'm self taught language learner as well.
 
 
 <p align="center>
