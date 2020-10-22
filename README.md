@@ -50,14 +50,11 @@
 
 <p>
 <a align="center" href="https://github.com/jackbowln">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackbowln&show_icons=true&theme=dark&line_height=27" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jackbowln&show_icons=true&theme=dark&line_height=27&include_all_commits=true" />
 </a>
 <a href="https://github.com/jackbowln">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=dark&hide=css, html" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackBowln&theme=dark&hide=css, html&include_all_commits=true" />
 </a>
-
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<a align="center" href="https://github.com/jackbowln">
+  <img align="center" height="220" src="https://github-readme-stats.vercel.app/api/wakatime?username=@3d67a8ff-9f80-4a48-8160-b7f107acd133&amp;theme=vue-dark&amp;layout=compact&line_height=27" />
+</a>
