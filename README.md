@@ -1,12 +1,7 @@
 ## Hi there I'm [Vinicius!](Github.com/jackbowln) 👋
 
 ##### Contact me in my social medias:
-
-
-<a href="https://twitter.com/ViniciusViola1">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/twitter.png" height="19px">
-&nbsp;&nbsp;&nbsp;
-</a>            
+        
 <a href="https://www.twitch.tv/jack_bowln">
 <img src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/twitch.png" height="21px"></img>
 &nbsp;&nbsp;&nbsp;
@@ -15,19 +10,18 @@
 <img  src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/instagram.png" height="20px"></img>
 &nbsp;&nbsp;&nbsp;
 </a>
-<a href="https://www.linkedin.com/in/vinicius-viola-dias-1133621a8/">
+<a href="https://www.linkedin.com/in/vinicius-viola/">
 <img src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/linke.png" height="23px"></img>
 </a>
 
 
 <br />
 
-### A little brief about me, a passionate ___web developer___ from Brazil 
+### A little brief about me, a passionate ___frontend engineer___ based in Portugal 
 
-- 🔭 I’m currently studying to be a web developer
-- 🌱 I’m currently learning Vue and Laravel/PHP
+- 🔭 I’m a senior frontend engineer
+- 🚀 My main tech stack is: Vue, Nuxt and Typescript
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with backend tools
 - 💬 Ask me about anything, let's just chat
 - 📫 I can be reached at **vinivdias@gmail.com**.
 - ⚡ Fun fact: 
@@ -38,11 +32,13 @@
 
 **Language and tools**
 
-&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/nextjs.png"></code>&nbsp;
-&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/vscode.png"></code>&nbsp;
-<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/python.png"></code>&nbsp;
+&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/nuxtjs.png"></code>&nbsp;
+&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/vue.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;
+<br>
+and sometimes:
+<br>
 <code><img height="20" src="https://raw.githubusercontent.com/JackBowln/JackBowln/master/reactjs.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  &nbsp;
 
